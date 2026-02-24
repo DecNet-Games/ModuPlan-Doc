@@ -1,0 +1,10 @@
+title: ModuPlan Pro
+description: The ultimate procedural UI and interaction system for Unity.
+theme: just-the-docs
+
+url: https://decnet-games.github.io
+baseurl: "/ModuPlan-Doc"
+
+aux_links:
+  Unity Asset Store: https://assetstore.unity.com/
+  GitHub: https://github.com/DecNet-Games/ModuPlan-Doc
